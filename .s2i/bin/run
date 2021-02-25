@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo Hello Champ its test for s2i by overriding original run script
+echo Hello  its test for s2i by overriding original run script
 
 # Call the original script
 /usr/libexec/s2i/run
